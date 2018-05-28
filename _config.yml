@@ -1,16 +1,16 @@
 # Site settings
-title: Christos Zonios - Portfolio
+title: Siddharth Goel - Portfolio
 description: My portfolio page
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://czonios.github.io"
+url: "https://w01fS.github.io"
 
 # User settings
-username: Christos Zonios
-user_description: I'm a software developer with a flair for Machine Learning and Data Science, and a student in the Computer Science dept. of the University of Ioannina. I am really good at solving problems and learning new things.
+username: Siddharth Goel
+user_description: I'm a software developer with a flair for Machine Learning and Data Science, and a student in the Computer Science dept. at Meerut Institute of Engineering & Technology. I am really good at solving problems and learning new things.
                         <strong>I like the hands on approach</strong> - <em>I figure out what needs to be done, and I do it.</em>
                       
-                    Take a look through some of my <a class="link" href="#projects" data-scroll>projects</a>. Feel free to check out my <a target="_blank" href="https://github.com/czonios">Github</a> and my <a target="_blank" href="https://howicodestuff.github.io">dev blog</a>. You can always <a href="mailto:czonios@gmail.com">hit me up</a> if you have any questions.
-user_title: Software/Web Developer
+                    Take a look through some of my <a class="link" href="#projects" data-scroll>projects</a>. Feel free to check out my <a target="_blank" href="https://github.com/w01fS">Github</a> and my <a target="_blank" href="https://howicodestuff.github.io">dev blog</a>. You can always <a href="mailto:sid.goel09@gmail.com">hit me up</a> if you have any questions.
+user_title: Data Scientist/ML Enginner in making
 
 # Google-analytics
 google-analytics:
